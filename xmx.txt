@@ -1,0 +1,3 @@
+[root@git InitWebServer]# sed -ri s/upgrade/update/g init_webserver.sh
+[root@git InitWebServer]# git add init_webserver.sh
+[root@git InitWebServer]# 
